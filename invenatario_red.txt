@@ -1,0 +1,51 @@
+=== INVENTARIO DE RED ===
+
+Nombre: MacBook Pro 
+IP: 192.168.100.14 
+Tipo: Laptop 
+Sitema Operativo: MacOS 
+Estado: activo 
+Fecha de registro: No registrada
+------------------------------
+Nombre: Xiaomi Redmi 15 
+IP: 192.168.100.34 
+Tipo: celular 
+Sitema Operativo: HyperOS 
+Estado: activo 
+Fecha de registro: No registrada
+------------------------------
+Nombre: Router Megacable HuaweiOS 
+IP: 192.168.100.1 
+Tipo: router 
+Sitema Operativo: HuaweiOS 
+Estado: activo 
+Fecha de registro: No registrada
+------------------------------
+Nombre: Tableta Lanix 
+IP: 192.168.100.8 
+Tipo: Tablet 
+Sitema Operativo: LanixOS 
+Estado: Activo 
+Fecha de registro: No registrada
+------------------------------
+Nombre: Pantalla Silo Fam Espino 
+IP: 192.168.100.36 
+Tipo: Smart Tv 
+Sitema Operativo: Android TV 
+Estado: Activo 
+Fecha de registro: No registrada
+------------------------------
+Nombre: Samsung Galaxy A05 
+IP: 192.168.100.11 
+Tipo: celular 
+Sitema Operativo: Samsung 
+Estado: activo 
+Fecha de registro: No registrada
+------------------------------
+Nombre: Motorola G10 
+IP: 192.168.100.26 
+Tipo: celular 
+Sitema Operativo: MOTO 
+Estado: activo 
+Fecha de registro: 28/06/2026 19:54
+------------------------------
